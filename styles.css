@@ -1,0 +1,25 @@
+body{
+    background-color: aquamarine;
+}
+
+h1{
+    background-color: antiquewhite;
+    color: lightcoral;
+}
+
+h2,p,ul,ol {
+    font-family:'Courier New', Courier, monospace;
+}
+
+li strong {
+    color: red;
+}
+
+h2{
+    font-size: 34px;
+}
+
+a {
+    background-color: beige;
+    color: green;
+}
